@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <!-- Optional: add a committers.top badge if you qualify -->
-  <!-- <a href="https://user-badge.committers.top/india/m4neexh">
+  <a href="https://user-badge.committers.top/india/m4neexh">
     <img src="https://user-badge.committers.top/india/m4neexh.svg" alt="committers.top badge" />
   </a> -->
 </p>
